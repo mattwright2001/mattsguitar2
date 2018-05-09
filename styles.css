@@ -1,0 +1,23 @@
+body{
+    background-color:royalblue
+}
+h1{
+    font-size:200%
+}
+h2{
+    font-size:200%
+}
+h3{font-size:150%}
+
+p,h1,h2,h3{
+    font-family:monospace
+}
+img{
+    height:275px
+}
+.button{
+    height:50px
+}
+#twinkle{
+    background-color:whitesmoke
+}
